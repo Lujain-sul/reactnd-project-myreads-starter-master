@@ -1,4 +1,4 @@
-# Reviews Project
+# My Reads Project
 
 ## Table of Contents
 
